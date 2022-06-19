@@ -1,0 +1,33 @@
+_repo: Terres-de-soleil-et-de-brouillard_68264
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brada
+    aliases:
+    - Puliga, Henrietta de Quigini
+    - Puliga, Henriette Consuelo Sansom, contessa di
+    birthdate: 1850
+    deathdate: 1938
+    gutenberg_agent_id: '46970'
+    url: http://www.gutenberg.org/2009/agents/46970
+    wikipedia: https://fr.wikipedia.org/wiki/Brada
+description: ''
+gutenberg_issued: '2022-06-08'
+identifiers:
+  gutenberg: '68264'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.503757
+pgterms:marc905: 20210512125434brada
+pgterms:marc906: '1903'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: France :Félix Juven,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Terres de soleil et de brouillard
+url: http://www.gutenberg.org/ebooks/68264
